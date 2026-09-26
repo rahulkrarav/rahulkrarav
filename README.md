@@ -2,7 +2,7 @@
 
 ### Java Developer | Full-Stack Developer | MCA Graduate
 
-I'm a passionate software developer interested in building practical, user-friendly applications and solving problems through programming. I have completed my **Master of Computer Applications (MCA) from Chandigarh University** and am focused on strengthening my Java, backend development, and full-stack engineering skills.
+I'm a passionate software developer interested in building practical, user-friendly applications and solving problems through programming. I have completed my **Master of Computer Applications (MCA) from Chandigarh University** and I'm focused on strengthening my Java Proggramming Skill, Backend development, and Full-stack engineering skills.
 
 * 🎓 **Education:** MCA, Chandigarh University
 * 💻 **Primary language:** Java
